@@ -7,7 +7,7 @@ REST API using **ASP.NET Core Web API** framework. This API shows how to access 
 
 ### 1. Clone repo
 ```
-git clone https://github.com/3nacodes/REST-API.git
+git clone https://github.com/ainacodes/REST-API.git
 ```
 
 ### 2. Create table in database
